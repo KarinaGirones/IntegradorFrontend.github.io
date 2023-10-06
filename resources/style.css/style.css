@@ -1,0 +1,98 @@
+*{
+    font-family: 'Aref Ruqaa Ink', serif;
+    font-family: 'Inika', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Philosopher', sans-serif;
+
+   
+}
+
+ .navbar {
+    background-color: rgba(0, 0, 0, 0.5); /* Cambia el último valor para ajustar la opacidad */
+}
+
+.nav-item a{
+    color: white; /* Cambia el color del texto del Navbar */
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: white; /* Cambia el color del ícono del botón de hamburguesa */
+}
+
+.col-lg-1 img{
+    width: 100%;
+    height: auto;
+
+}
+.col-lg-3 h2{
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+   
+}
+.col-lg-3 a{
+    text-decoration: none;
+}
+.col-lg-3 a:hover{
+    text-decoration: underline;
+    color:black;
+}
+.col-lg-3 img{
+    width: 100%;
+    height: auto;
+   
+}
+
+.col-lg-3 img:hover{
+    opacity:0.7;
+}
+
+h1 {
+    margin: 0;
+    font-size: 60px;
+    color:black;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-right: 20px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 10px 15;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    color:whitesmoke;
+}
+.text-center p{
+    margin: 5px;
+    padding: 5px;
+
+}
+.marco img{
+    margin-top: 200px;
+    padding-top: 200px;
+}
+
+.posicionamiento{
+    clear:both;
+}
+
+.posicionamiento{
+    background-color: rgb(52, 77, 41);
+    text-align: center;
+    padding:5px;
+    margin-top: 40px;
+
+}
